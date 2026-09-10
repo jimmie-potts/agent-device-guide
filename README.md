@@ -18,9 +18,9 @@ contains only `index.html`, the eight `architecture/*.html` viewers, `.nojekyll`
 and this README. A merge here triggers GitHub Pages; hub changes require a new
 publication PR before they appear online.
 
-Published source revision: `84999503f227284db7b8095afbcac22bafbf1d54`.
+Published source revision: `950f7f62d502bc1d55d0f95872a4a10c08d4a27a`.
 
 `index.html` SHA-256:
-`309d517cf9171a7ff4e0c63841f4b1585e000b1c9612389b58b2fe4869c698b2`.
+`0f37a2db680f075952c3e055892b5efef4d5d6c366cf20c0f0e9e04aa706f55c`.
 
 The standalone viewers can request Google Fonts and include offline fallbacks.

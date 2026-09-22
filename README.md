@@ -18,11 +18,11 @@ contains only `index.html`, the nine `architecture/*.html` viewers, `.nojekyll`
 and this README. A merge here triggers GitHub Pages; hub changes require a new
 publication PR before they appear online.
 
-Published source revision: `260707019b7ff83d57e31d91ae1e1582c3734589`.
+Published source revision: `f11334de55b700f8723387dfc15157f57ecd7388`.
 
 `index.html` SHA-256:
-`4d8f172a5025252c7b06551dfa862d1abe697fc532a54f75151d231217ed799e`.
+`185bf88047b9a5f9c7ebaaf8c7b35465cade8c4840e81f91bda27667d810e280`.
 
-Source publication: [Hub PR #122](https://github.com/jimmie-potts/agent-device-hub/pull/122), following the BUNNY UI planning in [Hub PR #120](https://github.com/jimmie-potts/agent-device-hub/pull/120).
+Source publication: [Hub PR #149](https://github.com/jimmie-potts/agent-device-hub/pull/149) adds clear story status and next steps; [Hub PR #150](https://github.com/jimmie-potts/agent-device-hub/pull/150) records completed delivery in the snapshot.
 
 The standalone viewers can request Google Fonts and include offline fallbacks.

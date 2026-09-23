@@ -18,11 +18,11 @@ contains only `index.html`, the nine `architecture/*.html` viewers, `.nojekyll`
 and this README. A merge here triggers GitHub Pages; hub changes require a new
 publication PR before they appear online.
 
-Published source revision: `dd00c7846d6f6da79a09948b925ddda0e9c342b7`.
+Published source revision: `ad5aef8fd5e09b828cb3595f23af621bfc41408a`.
 
 `index.html` SHA-256:
-`0fafa2b15ca5ee830f90e8855d96c865e796fbda5fa6d85c35be1713e395b385`.
+`df6cf685dc3e743afe07e791a8f5521ca1f3a6dc1eba46e6fd7937559789a354`.
 
-Source publication: [Hub PR #156](https://github.com/jimmie-potts/agent-device-hub/pull/156) records the accepted general-control definition and three concurrent closures; [Hub PR #157](https://github.com/jimmie-potts/agent-device-hub/pull/157) records the closed definition and the refreshed backlogs.
+Source publication: the latest guide changes come from [Hub PR #159](https://github.com/jimmie-potts/agent-device-hub/pull/159), [#160](https://github.com/jimmie-potts/agent-device-hub/pull/160), [#161](https://github.com/jimmie-potts/agent-device-hub/pull/161), [#162](https://github.com/jimmie-potts/agent-device-hub/pull/162), [#163](https://github.com/jimmie-potts/agent-device-hub/pull/163) and [#165](https://github.com/jimmie-potts/agent-device-hub/pull/165). They record the Nanoleaf device-aware state foundation, Nanoleaf native controls, and the completed Pixoo and Nanoleaf general controls.
 
 The standalone viewers can request Google Fonts and include offline fallbacks.

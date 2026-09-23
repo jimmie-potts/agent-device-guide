@@ -18,11 +18,11 @@ contains only `index.html`, the nine `architecture/*.html` viewers, `.nojekyll`
 and this README. A merge here triggers GitHub Pages; hub changes require a new
 publication PR before they appear online.
 
-Published source revision: `ad5aef8fd5e09b828cb3595f23af621bfc41408a`.
+Published source revision: `133cd145cec0b623afcbf8d193242037f4e37e06`.
 
 `index.html` SHA-256:
-`df6cf685dc3e743afe07e791a8f5521ca1f3a6dc1eba46e6fd7937559789a354`.
+`260c789a154a21f6d0f00ae1d47619dac71248466490389625bdeaabaf1d8aaf`.
 
-Source publication: the latest guide changes come from [Hub PR #159](https://github.com/jimmie-potts/agent-device-hub/pull/159), [#160](https://github.com/jimmie-potts/agent-device-hub/pull/160), [#161](https://github.com/jimmie-potts/agent-device-hub/pull/161), [#162](https://github.com/jimmie-potts/agent-device-hub/pull/162), [#163](https://github.com/jimmie-potts/agent-device-hub/pull/163) and [#165](https://github.com/jimmie-potts/agent-device-hub/pull/165). They record the Nanoleaf device-aware state foundation, Nanoleaf native controls, and the completed Pixoo and Nanoleaf general controls.
+Source publication: the latest guide changes come from [Hub PR #143](https://github.com/jimmie-potts/agent-device-hub/pull/143), [#177](https://github.com/jimmie-potts/agent-device-hub/pull/177) and [#183](https://github.com/jimmie-potts/agent-device-hub/pull/183). They record the N30 input qualification and the new BUNNY atlas system map and walkthrough. They also refresh every guide to the 23 September 2026 issue state: Tidbyt cloud controller source, the iPhone AirPlay qualification, Nanoleaf panel effects and external-scene findings, the BUNNY owner launcher, and no stale blockers or statuses.
 
 The standalone viewers can request Google Fonts and include offline fallbacks.

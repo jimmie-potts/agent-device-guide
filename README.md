@@ -1,28 +1,39 @@
-# Agent device work guide
+# Agent device work guide and BUNNY atlas
 
-[Open the guide](https://jimmie-potts.github.io/agent-device-guide/).
+- [Open the work guide](https://jimmie-potts.github.io/agent-device-guide/).
+- [Open the BUNNY system design atlas](https://jimmie-potts.github.io/agent-device-guide/atlas/).
 
-This repository publishes the generated cross-project work guide for Agent
-Device Hub, Nanoleaf and Pixoo. It includes the guide and nine interactive
-architecture viewers. GitHub Pages serves `main` from `/`.
+This repository publishes reviewed output from the private
+`jimmie-potts/agent-device-hub` repository. GitHub Pages serves `main` from `/`.
+The guide stays at the site root, its nine interactive architecture viewers stay
+under `/architecture/`, and the complete atlas stays under `/atlas/`.
 
-The guide is a dated snapshot. Its issue, history and architecture timestamps
-describe separate evidence. Links to private GitHub repositories require access.
+The guide is a dated snapshot. Its issue backlog was refreshed on
+2026-09-23 at 19:04 UTC, and its merged-work history was fetched at 19:02 UTC.
+The atlas documents carry a September 19, 2026 baseline; the overview map pins
+September 23 sources. Publication does not claim that every planned component
+is running. Links to private source issues, PRs and files require repository
+access, while the published reading pages and bundled references work without it.
+The nine architecture viewers include Google Fonts links with offline fallbacks.
 
 ## Source and updates
 
-The private `jimmie-potts/agent-device-hub` repository maintains the generator,
-inputs and validation. Publish its reviewed output here through a pull request
-after source review and CI. Do not edit generated HTML here. Each publication
-contains only `index.html`, the nine `architecture/*.html` viewers, `.nojekyll`
-and this README. A merge here triggers GitHub Pages; hub changes require a new
-publication PR before they appear online.
+The Hub repository maintains the generators, atlas sources, guide inputs and
+validation. This edition comes from Hub revision
+`1aeafb699843075b0928824cfe787ad1ac2f0c14`, delivered by
+[Hub PR #188](https://github.com/jimmie-potts/agent-device-hub/pull/188).
+The reviewed export stages the guide as `index.html`, the nine viewer files under
+`architecture/`, and the atlas under `atlas/`. Do not edit those generated files
+in this repository. Publish a new Hub revision through a reviewed public PR and
+verify the bytes served by Pages after merge.
 
-Published source revision: `133cd145cec0b623afcbf8d193242037f4e37e06`.
+The public file allowlist is `index.html`, nine `architecture/*.html` viewers,
+the files named in `atlas/manifest.json`, that manifest, `.nojekyll` and this
+README. No authoring scripts, fixtures, installation state or private databases
+belong here.
 
-`index.html` SHA-256:
-`260c789a154a21f6d0f00ae1d47619dac71248466490389625bdeaabaf1d8aaf`.
-
-Source publication: the latest guide changes come from [Hub PR #143](https://github.com/jimmie-potts/agent-device-hub/pull/143), [#177](https://github.com/jimmie-potts/agent-device-hub/pull/177) and [#183](https://github.com/jimmie-potts/agent-device-hub/pull/183). They record the N30 input qualification and the new BUNNY atlas system map and walkthrough. They also refresh every guide to the 23 September 2026 issue state: Tidbyt cloud controller source, the iPhone AirPlay qualification, Nanoleaf panel effects and external-scene findings, the BUNNY owner launcher, and no stale blockers or statuses.
-
-The standalone viewers can request Google Fonts and include offline fallbacks.
+- Public `index.html` SHA-256:
+  `278b5e2d460c44eddd3b229d9997ac91b2f37edb13200f5fd740e0aa5d4ac5b1`
+- `atlas/manifest.json` SHA-256:
+  `44e0596bc81e1b63c313a8369068f440570444a6654c56a453070f81835897f1`
+- Atlas entry point: <https://jimmie-potts.github.io/agent-device-guide/atlas/>

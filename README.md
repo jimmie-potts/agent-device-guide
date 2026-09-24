@@ -16,8 +16,8 @@ topic guides retain unique issue ownership; completed evidence is expandable.
 The merged-work history was read separately at 2026-09-24T09:07 UTC.
 The atlas documents carry a September 19, 2026 baseline; the overview map pins
 September 23 sources. Publication does not claim that every planned component
-is running. Links to private source issues, PRs and files require repository
-access, while the published reading pages and bundled references work without it.
+is running. The three source repositories are public, so issue, PR and source
+links open without a GitHub sign-in.
 The nine architecture viewers include Google Fonts links with offline fallbacks.
 
 ## Source and updates

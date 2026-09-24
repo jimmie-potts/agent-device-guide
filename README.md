@@ -33,7 +33,7 @@ README. No authoring scripts, fixtures, installation state or private databases
 belong here.
 
 - Public `index.html` SHA-256:
-  `1b6f647c965b3a11781e2594708959f7db3c3fc746a457e04b6dbd60542df881`
+  `37f5e3a620392689776c16458d781192c29b85e09673f16fe40e476d8e085472`
 - `atlas/manifest.json` SHA-256:
   `44e0596bc81e1b63c313a8369068f440570444a6654c56a453070f81835897f1`
 - Atlas entry point: <https://jimmie-potts.github.io/agent-device-guide/atlas/>

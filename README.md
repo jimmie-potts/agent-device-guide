@@ -9,11 +9,11 @@ The guide stays at the site root, its nine interactive architecture viewers stay
 under `/architecture/`, and the complete atlas stays under `/atlas/`.
 
 The guide's topic assignments and totals are a dated snapshot, refreshed at
-2026-09-24T09:36:35.440241+00:00. The opening lists show current work, newly added
+2026-09-24T23:42:51.864137+00:00. The opening lists show current work, newly added
 issues, open defects, selected next steps, blockers and later work. They refresh
 from public GitHub on page load, with a dated per-repository fallback. Eleven
 topic guides retain unique issue ownership; completed evidence is expandable.
-The merged-work history was read separately at 2026-09-24T09:07 UTC.
+The merged-work history was read separately at 2026-09-24T23:42 UTC.
 The atlas documents carry a September 19, 2026 baseline; the overview map pins
 September 23 sources. Publication does not claim that every planned component
 is running. The three source repositories are public, so issue, PR and source
@@ -24,8 +24,9 @@ The nine architecture viewers include Google Fonts links with offline fallbacks.
 
 The Hub repository maintains the generators, atlas sources, guide inputs and
 validation. This edition comes from Hub revision
-`b3b243805a80b14437198f1454c6398f77800f62`, delivered by
-[Hub PR #236](https://github.com/jimmie-potts/agent-device-hub/pull/236).
+`73166b2c6bc9b69a43650798684d73228483474d`, delivered by
+[Hub PR #249](https://github.com/jimmie-potts/agent-device-hub/pull/249), which
+builds on [Hub PR #248](https://github.com/jimmie-potts/agent-device-hub/pull/248).
 The reviewed export stages the guide as `index.html`, the nine viewer files under
 `architecture/`, and the atlas under `atlas/`. Do not edit those generated files
 in this repository. Publish a new Hub revision through a reviewed public PR and
@@ -37,7 +38,7 @@ README. No authoring scripts, fixtures, installation state or private databases
 belong here.
 
 - Public `index.html` SHA-256:
-  `902576a59d110d9c93049d0d337c04ef37c317d70cff1eeba3c135c961b1008a`
+  `d68adfcadc4ac2e446f95f2504ad069345634c76149873bbac1f8226566ac93b`
 - `atlas/manifest.json` SHA-256:
   `44e0596bc81e1b63c313a8369068f440570444a6654c56a453070f81835897f1`
 - Atlas entry point: <https://jimmie-potts.github.io/agent-device-guide/atlas/>

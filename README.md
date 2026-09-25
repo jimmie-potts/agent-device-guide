@@ -1,7 +1,7 @@
-# Agent device work guide and BUNNY atlas
+# Agent device work guide and B.U.N.N.Y. atlas
 
 - [Open the work guide](https://jimmie-potts.github.io/agent-device-guide/).
-- [Open the BUNNY system design atlas](https://jimmie-potts.github.io/agent-device-guide/atlas/).
+- [Open the B.U.N.N.Y. system design atlas](https://jimmie-potts.github.io/agent-device-guide/atlas/).
 
 This repository publishes reviewed output from the source
 `jimmie-potts/agent-device-hub` repository. GitHub Pages serves `main` from `/`.

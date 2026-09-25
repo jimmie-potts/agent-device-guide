@@ -1,7 +1,7 @@
-# Agent device work guide and BUNNY atlas
+# Agent device work guide and B.U.N.N.Y. atlas
 
 - [Open the work guide](https://jimmie-potts.github.io/agent-device-guide/).
-- [Open the BUNNY system design atlas](https://jimmie-potts.github.io/agent-device-guide/atlas/).
+- [Open the B.U.N.N.Y. system design atlas](https://jimmie-potts.github.io/agent-device-guide/atlas/).
 
 This repository publishes reviewed output from the source
 `jimmie-potts/agent-device-hub` repository. GitHub Pages serves `main` from `/`.
@@ -24,9 +24,12 @@ The nine architecture viewers include Google Fonts links with offline fallbacks.
 
 The Hub repository maintains the generators, atlas sources, guide inputs and
 validation. This edition comes from Hub revision
-`73166b2c6bc9b69a43650798684d73228483474d`, delivered by
-[Hub PR #249](https://github.com/jimmie-potts/agent-device-hub/pull/249), which
-builds on [Hub PR #248](https://github.com/jimmie-potts/agent-device-hub/pull/248).
+`d4657fa9f4614e2a933e0afe365ea4ed8e10aded`, delivered by
+[Hub PR #261](https://github.com/jimmie-potts/agent-device-hub/pull/261). It
+carries the Neon Geometry Wars presentation from
+[Hub PR #251](https://github.com/jimmie-potts/agent-device-hub/pull/251) and the
+starting-session recommendations from
+[Hub PR #260](https://github.com/jimmie-potts/agent-device-hub/pull/260).
 The reviewed export stages the guide as `index.html`, the nine viewer files under
 `architecture/`, and the atlas under `atlas/`. Do not edit those generated files
 in this repository. Publish a new Hub revision through a reviewed public PR and
@@ -38,7 +41,7 @@ README. No authoring scripts, fixtures, installation state or private databases
 belong here.
 
 - Public `index.html` SHA-256:
-  `d68adfcadc4ac2e446f95f2504ad069345634c76149873bbac1f8226566ac93b`
+  `26389c9d1ea34bf53452076c4c1f6ab6996c4cf8bef6c23f8c4cc070e8589060`
 - `atlas/manifest.json` SHA-256:
-  `44e0596bc81e1b63c313a8369068f440570444a6654c56a453070f81835897f1`
+  `48a4b6683fb3758bce7beaff0992a77854aba5b9c79bab4b8af667583b52c9db`
 - Atlas entry point: <https://jimmie-potts.github.io/agent-device-guide/atlas/>

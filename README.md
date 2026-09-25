@@ -9,7 +9,7 @@ The guide stays at the site root, its nine interactive architecture viewers stay
 under `/architecture/`, and the complete atlas stays under `/atlas/`.
 
 The guide's topic assignments and totals are a dated snapshot, refreshed at
-2026-09-25T05:35:31.046239+00:00. The opening lists show current work, newly added
+2026-09-25T06:57:15.265218+00:00. The opening lists show current work, newly added
 issues, open defects, selected next steps, blockers and later work. They refresh
 from public GitHub on page load, with a dated per-repository fallback. Eleven
 topic guides retain unique issue ownership; completed evidence is expandable.
@@ -24,11 +24,16 @@ The nine architecture viewers include Google Fonts links with offline fallbacks.
 
 The Hub repository maintains the generators, atlas sources, guide inputs and
 validation. This edition comes from Hub revision
-`9009ce3e3164e8470c05e7d5417866186cdc6452`, delivered by
-[Hub PR #266](https://github.com/jimmie-potts/agent-device-hub/pull/266), which
-records a starting-session recommendation (session type, model and thinking
-level for Claude Code and Codex, and the prompts to paste) in every open story
-and refreshes the guide snapshot. It builds on the recommendation display from
+`47210ddfe69ae961561aa2e5f7b8ca8d513a8123`, delivered by
+[Hub PR #300](https://github.com/jimmie-potts/agent-device-hub/pull/300), which
+adds a dated Direction section (where B.U.N.N.Y. stands, what it is becoming,
+what to build next, and a computed "Least work, most unblocked" table from the
+recorded GitHub prerequisites), and
+[Hub PR #281](https://github.com/jimmie-potts/agent-device-hub/pull/281), which
+reads each story's topic placement, note and highlight from the story's own
+Guide section, live from public GitHub when the read succeeds. It builds on the
+starting-session recommendations from
+[Hub PR #266](https://github.com/jimmie-potts/agent-device-hub/pull/266) and
 [Hub PR #260](https://github.com/jimmie-potts/agent-device-hub/pull/260), the
 one-shot circuit trace from
 [Hub PR #265](https://github.com/jimmie-potts/agent-device-hub/pull/265) and the
@@ -45,7 +50,7 @@ README. No authoring scripts, fixtures, installation state or private databases
 belong here.
 
 - Public `index.html` SHA-256:
-  `2c7f3ffa119c7ac8c421e11798b299d600f447c8e5b398fddf9c4e52a8a4c2e5`
+  `f02756cf8c3c25ac2fbb7b401794f4844391a8291f3841849932da3633c453bf`
 - `atlas/manifest.json` SHA-256:
   `044bbb4fffdae28a9e54fd14abf56136b804e530de657523c6b64bde0ac56366`
 - Atlas entry point: <https://jimmie-potts.github.io/agent-device-guide/atlas/>

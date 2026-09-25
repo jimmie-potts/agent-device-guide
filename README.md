@@ -24,9 +24,10 @@ The nine architecture viewers include Google Fonts links with offline fallbacks.
 
 The Hub repository maintains the generators, atlas sources, guide inputs and
 validation. This edition comes from Hub revision
-`d4657fa9f4614e2a933e0afe365ea4ed8e10aded`, delivered by
-[Hub PR #261](https://github.com/jimmie-potts/agent-device-hub/pull/261). It
-carries the Neon Geometry Wars presentation from
+`d85b8b3381f4e9a7e2e0b410d3f4ab9be74e5793`, delivered by
+[Hub PR #265](https://github.com/jimmie-potts/agent-device-hub/pull/265), which
+replaces the Pause motion control with a one-shot circuit trace. It carries the
+Neon Geometry Wars presentation from
 [Hub PR #251](https://github.com/jimmie-potts/agent-device-hub/pull/251) and the
 starting-session recommendations from
 [Hub PR #260](https://github.com/jimmie-potts/agent-device-hub/pull/260).
@@ -41,7 +42,7 @@ README. No authoring scripts, fixtures, installation state or private databases
 belong here.
 
 - Public `index.html` SHA-256:
-  `26389c9d1ea34bf53452076c4c1f6ab6996c4cf8bef6c23f8c4cc070e8589060`
+  `a76489b75ee3151a0910bce2013f50c70fce95ee6323b36a55c8283e4152db50`
 - `atlas/manifest.json` SHA-256:
-  `48a4b6683fb3758bce7beaff0992a77854aba5b9c79bab4b8af667583b52c9db`
+  `044bbb4fffdae28a9e54fd14abf56136b804e530de657523c6b64bde0ac56366`
 - Atlas entry point: <https://jimmie-potts.github.io/agent-device-guide/atlas/>

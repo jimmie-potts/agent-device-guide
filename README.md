@@ -24,14 +24,18 @@ The nine architecture viewers include Google Fonts links with offline fallbacks.
 
 The Hub repository maintains the generators, atlas sources, guide inputs and
 validation. This edition comes from Hub revision
-`267844bb720b5f6972421769950732c1b2e2bd5b`, delivered by
-[Hub PR #393](https://github.com/jimmie-potts/agent-device-hub/pull/393), which
+`5d68ab47a68512c10e391f218fae7fc4d376071b`, delivered by
+[Hub PR #394](https://github.com/jimmie-potts/agent-device-hub/pull/394), which
+re-renders the architecture viewers for ADR 0007 (B.U.N.N.Y. is the shell),
+ADR 0008 (runtime hosting) and the retired Windows Nanoleaf runtime, re-pins
+the guide views to current main and updates the system map the atlas embeds.
+It follows [Hub PR #393](https://github.com/jimmie-potts/agent-device-hub/pull/393), which
 adds a twelfth topic guide, Steam Deck, for the seven stories filed on
 2026-09-25, places the stories filed since the previous snapshot on the roadmap
 and refreshes the snapshot and history after
 [Hub PR #375](https://github.com/jimmie-potts/agent-device-hub/pull/375), the
-guide refresh for ADR 0007 (B.U.N.N.Y. is the shell) and ADR 0008 (runtime
-hosting) that rewrote the Direction section and every topic's text. Earlier
+guide refresh for ADR 0007 and ADR 0008 that rewrote the Direction section and
+every topic's text. Earlier
 editions added the Direction section
 ([Hub PR #300](https://github.com/jimmie-potts/agent-device-hub/pull/300)),
 story-owned topic placement
@@ -54,7 +58,7 @@ README. No authoring scripts, fixtures, installation state or private databases
 belong here.
 
 - Public `index.html` SHA-256:
-  `5e1a00b65c967b42e54152ed786b1037587d1a648ad7637b4968a69d4286a0ba`
+  `493039eacb7e073cb4bf40bcf814439ef488ee4b2701f10a839c701a7a51b217`
 - `atlas/manifest.json` SHA-256:
-  `044bbb4fffdae28a9e54fd14abf56136b804e530de657523c6b64bde0ac56366`
+  `227114f62046d35f321457db5563206253cddc9cae4444bcd26087bc61011022`
 - Atlas entry point: <https://jimmie-potts.github.io/agent-device-guide/atlas/>

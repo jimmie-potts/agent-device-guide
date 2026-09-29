@@ -7,21 +7,23 @@ GitHub Pages serves the reviewed output from `jimmie-potts/agent-device-hub`.
 The guide is at the site root, nine interactive architecture viewers are under
 `architecture/`, and the complete atlas is under `atlas/`.
 
-This edition uses Hub revision `0eb7474ce9d76bc0c928a17da0c5fd23288f9f7b`, from
-[Hub PR #440](https://github.com/jimmie-potts/agent-device-hub/pull/440) and its
-[guide completion PR #447](https://github.com/jimmie-potts/agent-device-hub/pull/447).
-The playback atlas now describes the installed Sony HT-A9 and Sonos Move sources,
-source ranking, paused-track metadata lag and command boundaries. Its other
-baseline sections remain explicitly dated; publication does not claim that every
-planned component is installed.
+This edition uses Hub revision `0ef7cdfe6cd08c8ecb50aef3c7d307757eb1e10f`, from
+[Hub PR #577](https://github.com/jimmie-potts/agent-device-hub/pull/577).
+The guide records accepted WSL startup, installed LIFX status and Hub navigation,
+shared metadata source deliveries, verification qualification and the deferred
+Mac mini plan. Source delivery, installation and device acceptance remain separate.
+Shared Places navigation comes from the previously approved
+[Hub PR #466](https://github.com/jimmie-potts/agent-device-hub/pull/466).
 
-The guide snapshot was refreshed at `2026-09-26T05:57:06.140671+00:00` and contains
-236 open issues across 12 topics. History was read at
-`2026-09-26T05:51:58.138474+00:00`. Live GitHub reads can update issue lists,
+The guide snapshot was refreshed at `2026-09-29T14:17:40.546751+00:00` and contains
+340 open issues across 12 topics. History was read at
+`2026-09-29T14:10:30.183147+00:00`. Live GitHub reads can update issue lists,
 status and topic placement, with a dated fallback for each repository. Editorial
-prose, history and the roadmap remain dated. Recent source deliveries and their
-installation follow-ups are separate. The nine viewers retain Google Fonts links
-with offline fallbacks.
+prose, history and the roadmap remain dated. The atlas and architecture viewers
+retain their historical source pins; this publication does not claim a new
+architecture review. The nine viewers retain Google Fonts links with offline
+fallbacks. The guide's Local B.U.N.N.Y. entry remains tracked by
+[Hub #563](https://github.com/jimmie-potts/agent-device-hub/issues/563).
 
 ## Source and updates
 
@@ -34,6 +36,6 @@ The public allowlist is `index.html`, nine `architecture/*.html` viewers,
 `atlas/manifest.json`, every file it names, `.nojekyll` and this README. It excludes
 authoring scripts, fixtures, installation state and private databases.
 
-- Public `index.html` SHA-256: `1abae8be624af21f791eb7bbe4466fbe8cb0e09dc7fe80d6bcd93f96c223f394`
-- `atlas/manifest.json` SHA-256: `d37d86a02ed2ba304612082698db8a762a304ad5ee87dcf672238596e4d14c41`
+- Public `index.html` SHA-256: `a803f9f3fd1a7ee48c24521d481d1ec8dfff2a396afc24c902e6482a59db1a1e`
+- `atlas/manifest.json` SHA-256: `abfc4ddfcff8d663a30271e91e6cabe0c2322854921222a563bea9bc10a1b5fd`
 - Atlas entry point: [System design atlas](https://jimmie-potts.github.io/agent-device-guide/atlas/)

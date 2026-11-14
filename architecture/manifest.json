@@ -1,0 +1,17 @@
+{
+  "sourceReviewRevision": "1d21bd2e3891cf3c7481920a3f73a949952c1d51",
+  "reviewedAt": "2026-11-14",
+  "files": {
+    "architecture/arch-shared-system.html": "4e1e387b48c2adb252f01fb2f79a1b123638e6367d7f1a44f395720f463d11c1",
+    "architecture/history/arch-shared-system.html": "18d71259b9f6d8cb2391250fc794ccc84403f381c83c2dca50aec27dd331b359",
+    "architecture/history/index.html": "c932deae4580350b00daa41b64a0547b17bb02e06b54f8e25923db41519ca2c2",
+    "architecture/runtime-architecture.html": "fa612ab8e18f542f16df38aa666c5ef4c0ed3997ecc83a3b3c0ec05754bd3c5a",
+    "architecture/runtime-outcomes.html": "94d170ce7656f9354d6f7b216c7ea3531c72b2e1e17e214c239ad66381eaf023",
+    "architecture/runtime-sync.html": "c60b8edd445919f24b1a15cf3583e2397dab6e096862b241290b2c8d6ee69fc3",
+    "atlas/full-system-design.html": "0606b8710aa0ef12e6a86f91802cae44a4b79b7a13718c22766ec09e65b25ef3",
+    "atlas/index.html": "375a3c6686d1937484b12ccba59f658f034b234064549d2c73e99f64d03c3d04",
+    "atlas/manifest.json": "3c10c08dca500ed65e0230382b52949bc8c269547fb2344fb3cea231e9600266",
+    "history/work-guide.html": "4aec57a2258e9d70c58680b147231a4e01deae924165531bb6299d13d4c350e6",
+    "index.html": "5b3c55315c78298a7f059572328f8b3788bb2a885b1637e1d2f4e91790b8afdb"
+  }
+}

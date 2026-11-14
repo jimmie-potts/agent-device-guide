@@ -1,41 +1,30 @@
-# Agent device work guide and B.U.N.N.Y. atlas
+# B.U.N.N.Y. architecture
 
-[Open the work guide](https://jimmie-potts.github.io/agent-device-guide/) or
-[open the system design atlas](https://jimmie-potts.github.io/agent-device-guide/atlas/).
+[Open the current architecture](https://jimmie-potts.github.io/agent-device-guide/architecture/arch-shared-system.html).
 
-GitHub Pages serves the reviewed output from `jimmie-potts/agent-device-hub`.
-The guide is at the site root, nine interactive architecture viewers are under
-`architecture/`, and the complete atlas is under `atlas/`.
+The default view describes the implemented Mac runtime, its SDK bus and ownership
+boundaries. Deployment and ADR 0016's future cloud-brain/local-edge direction are
+separate sections. The public root leads to this current view.
 
-This edition uses Hub revision `0ef7cdfe6cd08c8ecb50aef3c7d307757eb1e10f`, from
-[Hub PR #577](https://github.com/jimmie-potts/agent-device-hub/pull/577).
-The guide records accepted WSL startup, installed LIFX status and Hub navigation,
-shared metadata source deliveries, verification qualification and the deferred
-Mac mini plan. Source delivery, installation and device acceptance remain separate.
-Shared Places navigation comes from the previously approved
-[Hub PR #466](https://github.com/jimmie-potts/agent-device-hub/pull/466).
+Historical diagrams remain available through the small Architecture history link
+at the bottom of the page. The September system map and retired Work Guide have
+been preserved outside the main display; the dated atlas remains at its existing
+URL. These snapshots are not current installation or capability claims.
 
-The guide snapshot was refreshed at `2026-09-29T14:17:40.546751+00:00` and contains
-340 open issues across 12 topics. History was read at
-`2026-09-29T14:10:30.183147+00:00`. Live GitHub reads can update issue lists,
-status and topic placement, with a dated fallback for each repository. Editorial
-prose, history and the roadmap remain dated. The atlas and architecture viewers
-retain their historical source pins; this publication does not claim a new
-architecture review. The nine viewers retain Google Fonts links with offline
-fallbacks. The guide's Local B.U.N.N.Y. entry remains tracked by
-[Hub #563](https://github.com/jimmie-potts/agent-device-hub/issues/563).
+## Source and publication
 
-## Source and updates
+The authored overview and deterministic export live in
+[Hub docs/architecture-site](https://github.com/jimmie-potts/agent-device-hub/tree/main/docs/architecture-site).
+The existing runtime and sequence renderings keep their original provenance.
+`architecture/manifest.json` records the semantic review baseline and exported
+file hashes. The atlas retains its separate `atlas/manifest.json` receipt.
 
-The Hub owns the generators, authored atlas, saved guide inputs and checks.
-Publish an export of a reviewed Hub revision through a public PR, then verify
-Pages deployment and every served file against the reviewed hashes. Do not edit
-generated files here or refresh data in this repository.
+Publish reviewed exports through a public PR, then verify Pages deployment and
+served file hashes. Do not edit generated HTML here. Exporting does not publish or
+change B.U.N.N.Y.'s runtime, private data, configuration or devices.
 
-The public allowlist is `index.html`, nine `architecture/*.html` viewers,
-`atlas/manifest.json`, every file it names, `.nojekyll` and this README. It excludes
-authoring scripts, fixtures, installation state and private databases.
-
-- Public `index.html` SHA-256: `a803f9f3fd1a7ee48c24521d481d1ec8dfff2a396afc24c902e6482a59db1a1e`
-- `atlas/manifest.json` SHA-256: `abfc4ddfcff8d663a30271e91e6cabe0c2322854921222a563bea9bc10a1b5fd`
-- Atlas entry point: [System design atlas](https://jimmie-potts.github.io/agent-device-guide/atlas/)
+The public architecture export contains the root redirect, current overview,
+runtime and two sequence viewers, history page, preserved historical entry points
+and the architecture manifest. Existing historical viewers, atlas assets,
+`.nojekyll` and this README remain. Authoring scripts, fixtures, private data and
+installation state are excluded.
